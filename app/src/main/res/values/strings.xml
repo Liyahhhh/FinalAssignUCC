@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">FinalAssignUCC</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="admission_title">Admissions</string>
+    <string name="admission_info">Admission Info</string>
+    <string name="apply_now">APPLY NOW</string>
+    <string name="id_no">id_no</string>
+    <string name="discrete_mathematics">Discrete Mathematics</string>
+    <string name="codeexample">ITT102</string>
+    <string name="prereqexample">Programming Techniques</string>
+    <string name="aboutexample">ABOUT COURSE</string>
+    <string name="creditsexample">3 credits</string>
+    <string name="ucc_menu">UCC MENU</string>
+    <string name="faculty">Faculty</string>
+    <string name="courses">Courses</string>
+    <string name="admissions">Admissions</string>
+    <string name="social_media">Social Media</string>
+    <string name="about1">The University of the Commonwealth Caribbean (UCC), registered as a
+        University College by the University Council of Jamaica, is Jamaica’s largest, fastest-
+        growing, non-affiliated private institution of higher education, and is now one of five
+        higher education entities with the accolade of institutional accreditation from the
+        University Council of Jamaica. UCC is also institutionally accredited internationally by
+        the UK-based Accreditation Service for Independent Colleges and Universities.</string>
+    <string name="about2">UCC is headquartered in Kingston, Jamaica, with five physical campuses
+        and UCC Online. UCC was formed in 2004, as a result of a merger in 2002 of the Institute
+        of Management Sciences, which was incorporated in 1992, and the Institute of Management and
+        Production, which was incorporated in 1976.  UCC offers a range of disciplines, from the
+        professional certificate to the Doctoral levels. The University currently has approximately
+        5,000 students, and some 400 faculty and staff members, including part-time and full-time
+        academic staff.</string>
+    <string name="about3"> Throughout its history, UCC has been characterized by dynamic entrepreneurialism
+        and international university partnerships. These partnerships include the University of London –
+        UCC is the only local university to be recognized as an affiliate University of London institution,
+        for the purpose of providing support to Jamaican students enrolled in the Certificate of Higher Education
+        in Common Law, and the Bachelor of Laws degree program.</string>
+    <string name="req1"> To be unconditionally admitted to complete UCC undergraduate programmes, individuals should possess a minimum of five (5) subjects at the GCE or CSEC level (including the mandatory English Language and Mathematics) at grades A, B, C or 1, 2, 3 respectively. A CSEC pass at level 3 must have been obtained since 1998.</string>
+    <string name="req2">Candidates who have a minimum of 4 CXCs can also apply pending the outstanding CXC subjects or can opt to do UCC replacement courses Core Mathematics, English for Academic Purpose and Fundamentals of Accounting.</string>
+    <string name="req3">Candidates can opt to apply under the Mature Entry option. To be accepted, applicants must be working for 5 years or more and be at a minimum age of 25 years. Academic qualifications, a detailed resume, a job letter and 3 professional references will be required.</string>
+</resources>

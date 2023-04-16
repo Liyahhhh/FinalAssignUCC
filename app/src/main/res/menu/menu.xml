@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/faculty"
+        android:title="@string/faculty"/>
+    <item
+        android:id="@+id/courses"
+        android:title="@string/courses"/>
+    <item
+        android:id="@+id/admission"
+        android:title="@string/admissions"/>
+    <item
+        android:id="@+id/social"
+        android:title="@string/social_media"/>
+
+</menu>
